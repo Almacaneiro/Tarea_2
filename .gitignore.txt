@@ -1,2 +1,5 @@
-/Imagenes/
+# Ignorar todos los archivos dentro de la carpeta Imagenes
+Imagenes/
+
+# Ignorar el archivo git_local.txt en la raíz del repositorio
 git_local.txt
