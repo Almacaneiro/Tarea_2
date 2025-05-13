@@ -1,2 +1,2 @@
 /Imagenes/
-/git_local.txt
+git_local.txt
